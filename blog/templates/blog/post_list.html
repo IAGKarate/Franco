@@ -3,20 +3,11 @@
             <title>Franco Canadiense</title>
         </head>
         <body>
-            <div>
-                <h1><a href="">Primeros pasos para el Blog</a></h1>
-            </div>
-
-            <div>
-                <p>Fecha de Publicacion</p>
-                <h2><a href="">Titulo del Post</a></h2>
-                <p>Informacion del Post</p>
-            </div>
-
- 			<div>
-                <p>Fecha de Publicacion</p>
-                <h2><a href="">Titulo del Post</a></h2>
-                <p>Informacion del Post</p>
-            </div>
-        </body>
+      {% for post in posts %}
+        <div>
+            <p>published: {{ post.published_date }}</p>
+            <h1><a href="">{{ post.title }}</a></h1>
+            <p>{{ post.text|linebreaksbr }}</p>
+        </div>
+    {% endfor %}        </body>
     </html>
