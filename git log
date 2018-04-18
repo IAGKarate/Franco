@@ -1,0 +1,59 @@
+[33mcommit 16ec8b8e185fadd4365360f5c065938aac576f30[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Ivan <antonio93mx@gmail.com>
+Date:   Thu Apr 12 02:54:47 2018 -0500
+
+    urls para las vistas de detalles funcionando
+
+[33mcommit 8c05188869464b6b179991e838f6bf411a54a464[m
+Author: Ivan <antonio93mx@gmail.com>
+Date:   Sat Mar 17 18:47:22 2018 -0600
+
+    Errores en la url y archivo html base creado
+
+[33mcommit f9a92424be3f4a36e700f67c63a37de649a6f299[m
+Author: Ivan <antonio93mx@gmail.com>
+Date:   Thu Mar 8 01:22:25 2018 -0600
+
+    Editando CSS encabezado y post
+
+[33mcommit 1fba8cb137343434f258533668fd3749d8de5625[m
+Author: Ivan <antonio93mx@gmail.com>
+Date:   Thu Mar 8 00:41:02 2018 -0600
+
+    Editando CSS
+
+[33mcommit fd0c11552d5a52e36680632cd6a86b7a10784985[m
+Author: Ivan <antonio93mx@gmail.com>
+Date:   Thu Mar 8 00:08:45 2018 -0600
+
+    Empesamos a modificar el Template de list_views con CSS
+
+[33mcommit 5fb949705f417e1131d0e58980da2a0eec992579[m
+Author: Ivan <antonio93mx@gmail.com>
+Date:   Wed Mar 7 23:35:08 2018 -0600
+
+    Modificamos el template para mostrar datos de la base
+
+[33mcommit 7194f7f96861f84cf1c6d5fbbf13a07881e172de[m
+Author: Ivan <antonio93mx@gmail.com>
+Date:   Wed Mar 7 21:30:10 2018 -0600
+
+    Se modifico el archivo Html list_views
+
+[33mcommit 2ebc8b3525baffdc0ed8683edf400cf8aaeede1b[m
+Author: Ivan <antonio93mx@gmail.com>
+Date:   Wed Mar 7 21:24:15 2018 -0600
+
+    Se Creo el Html y se agregaron las Urls para las vistas princiupales
+
+[33mcommit c133df95cd9c97d71a37942f4a17a8f67cbcef6a[m
+Author: Ivan <antonio93mx@gmail.com>
+Date:   Tue Mar 6 02:13:24 2018 -0600
+
+    Creacion de archivo TXT
+
+[33mcommit 146159a75373395915212560ad4dd353aa16d53b[m
+Author: Ivan <antonio93mx@gmail.com>
+Date:   Tue Mar 6 01:52:18 2018 -0600
+
+    Mi app, mi primer Comnit
